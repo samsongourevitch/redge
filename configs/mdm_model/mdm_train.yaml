@@ -1,0 +1,26 @@
+model_dir: configs/sudoku_mdm
+train_csv: data/sudoku_train.csv
+eval_csv: data/sudoku_test.csv
+output_dir: ../../models/mdm-sudoku-checkpoints
+checkpoint_path: null
+cutoff_len: 164
+batch_size: 8
+learning_rate: 0.001
+gamma: 1.0
+max_steps: 200
+log_every: 10
+eval_every: 100
+diffusion_steps: 20
+train: true
+eval: true
+max_train_samples: 1024
+max_eval_samples: 256
+seed: 20
+save_checkpoints: false
+save_results: false
+
+hydra:
+  run:
+    dir: ${output_dir}/${now:%Y%m%d-%H%M%S}
+  job:
+    chdir: false

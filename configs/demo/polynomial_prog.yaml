@@ -1,0 +1,8 @@
+vocab_size: 2
+length: 128
+offset: 0.45
+lr: 0.05
+pow: 1.5
+beta_entropy: 0.0
+linear: False
+hard: True

@@ -1,0 +1,6 @@
+D: 2
+K: 20
+sigma: 15.0
+sigma_y: 2.0
+num_samples: 500
+hard: True

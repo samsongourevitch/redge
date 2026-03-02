@@ -1,0 +1,20 @@
+hard: true
+batch_size: 1000
+max_samples: 1000
+cutoff_len: 164
+
+# Relative to DATA_DIR
+eval_csv: sudoku_data/sudoku_test.csv
+
+# Relative to REPO_DIR
+config_dir: configs/mdm_model
+mdm_config: configs/mdm_model/mdm_train.yaml
+
+# Relative to MODELS_DIR
+checkpoint: sudoku_checkpoints/checkpoint_acc_1.bin
+
+guidance:
+  kl_weight: 1.0
+  n_opt_steps: 1000
+  lr: 0.1
+  greedy: true

@@ -1,0 +1,8 @@
+vocab_size: 2
+length: 48
+input_dim: 784
+hidden_dim: 400
+batch_size: 200
+lr: 5e-4
+hard: True
+device: cuda:0

@@ -1,0 +1,45 @@
+# Paths
+vit_path: "ImageNet_384_large.pth"      # Folder where to save the Transformer
+# vit_path: "ImageNet_256_base.pth" 
+vqgan_path: "vq_ds16_c2i.pt"            # Folder of the pretrained VQGAN
+
+is_master: true           # Primary machine
+global_rank: 0            # default to 0
+dtype: "float32"          # precision
+
+# Model and Flops
+vit_size: large           # Size of the Vision Transformer
+f_factor: 16              # Image size factor
+codebook_size: 16384      # Size of the VQGAN codebook
+mask_value: 16384         # Value for masking
+register: 1               # Number of registers
+proj: 1                   # Projection of the tokens
+dropout: 0.1              # Dropout rate for the transformer
+
+# Data
+img_size: 384             # Image size
+# img_size: 256             # Image size
+nb_class: 1000            # Number of classes in ImageNet 
+
+# MDM Sampler
+mdm_sampler:
+  step: 20                  # Number of sampling steps
+  sigma: 1.0                # Remasking coefficient
+  cfg_w: 3.0                # Classifier-free guidance weight
+  drop_label: False          # Whether to drop conditioning labels during sampling (must be false if cfg_w!=0)
+
+# Optimization
+guidance:
+  n_opt_steps: 20         # Number of optimization steps
+  lr: 0.5                 # Learning rate for optimization
+  kl_weight: 1.0          # Weight for KL divergence in optimization
+  kl_sampling_mode: "exact"  # Mode for KL divergence calculation
+  forget_coeff: 1.0       # Forgetting coefficient for previous logits
+
+reward_scaling: 100.
+seed: 620
+hard: true              # Whether to use hard sampling
+label: 817
+prompt: a blue car
+n_samples: 1
+device: 0
