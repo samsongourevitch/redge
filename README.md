@@ -13,13 +13,20 @@ Code for *Categorical Reparameterization using Denoising Diffusion models* ([arX
 
 ## Public API
 
-We provide a simple API for sampling from ReDGE-style samplers:
+We provide a simple API for sampling from ReDGE-style samplers. For example, to sample from the `redge` sampler instead of the standard Gumbel-Softmax, simply replace your sampling code with:
 
 ```python
-from redge import redge, SAMPLERS
+from redge import redge
 
-x = redge(logits, n_steps=5, t_1=0.5, hard=True)
-y = SAMPLERS["redge"](logits, n_steps=5, t_1=0.5, hard=True)
+x = redge(logits, n_steps=5, t_1=0.5, hard=True) # Instead of torch.nn.functional.gumbel_softmax(logits, tau=0.5, hard=True)
+```
+
+If you want to switch easily between samplers, you can use the `SAMPLERS` dictionary that maps sampler names to their corresponding sampling functions:
+
+```python
+from redge import SAMPLERS
+
+x = SAMPLERS["redge"](logits, n_steps=5, t_1=0.5, hard=True)
 ```
 
 ## Hyperparameters and tuning
