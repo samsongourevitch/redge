@@ -1,0 +1,34 @@
+[project]
+name = "ReDGE"
+version = "0.1.0"
+description = "Code for Categorical Reparameterization using Denoising Diffusion models at https://arxiv.org/abs/2601.00781"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "datasets>=4.4.1",
+    "diffusers>=0.36.0",
+    "hydra-core==1.3.2",
+    "latex>=0.7.0",
+    "matplotlib>=3.10.7",
+    "numpy>=2.2.6",
+    "pyyaml>=6.0.3",
+    "reinmax>=0.1.0",
+    "scikit-learn>=1.7.2",
+    "torch>=2.8.0",
+    "torchmetrics>=1.8.2",
+    "torchvision>=0.23.0",
+    "tqdm>=4.67.1",
+    "transformers>=5.0.0",
+    "wandb>=0.23.0",
+]
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["experiments*", "src*"]
+
+[tool.setuptools]
+py-modules = ["local_paths"]

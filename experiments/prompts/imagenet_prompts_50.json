@@ -1,0 +1,253 @@
+[
+  {
+    "class_id": 864,
+    "class_name": "tow truck, tow car, wrecker",
+    "prompt": "a red tow truck, high detail"
+  },
+  {
+    "class_id": 265,
+    "class_name": "toy poodle",
+    "prompt": "A toy poodle, high detail"
+  },
+  {
+    "class_id": 414,
+    "class_name": "backpack, back pack, knapsack, packsack, rucksack, haversack",
+    "prompt": "A backpack in natural light"
+  },
+  {
+    "class_id": 991,
+    "class_name": "coral fungus",
+    "prompt": "A coral fungus with a shallow depth of field"
+  },
+  {
+    "class_id": 913,
+    "class_name": "wreck",
+    "prompt": "A wreck with soft lighting"
+  },
+  {
+    "class_id": 142,
+    "class_name": "dowitcher",
+    "prompt": "a black dowitcher"
+  },
+  {
+    "class_id": 931,
+    "class_name": "bagel, beigel",
+    "prompt": "A bagel with a shallow depth of field"
+  },
+  {
+    "class_id": 923,
+    "class_name": "plate",
+    "prompt": "a blue plate"
+  },
+  {
+    "class_id": 920,
+    "class_name": "traffic light, traffic signal, stoplight",
+    "prompt": "A traffic light outdoors"
+  },
+  {
+    "class_id": 483,
+    "class_name": "castle",
+    "prompt": "A castle outdoors"
+  },
+  {
+    "class_id": 444,
+    "class_name": "bicycle-built-for-two, tandem bicycle, tandem",
+    "prompt": "a gold bicycle-built-for-two on a plain background"
+  },
+  {
+    "class_id": 453,
+    "class_name": "bookcase",
+    "prompt": "A bookcase in natural light"
+  },
+  {
+    "class_id": 63,
+    "class_name": "Indian cobra, Naja naja",
+    "prompt": "An Indian cobra with soft lighting"
+  },
+  {
+    "class_id": 937,
+    "class_name": "broccoli",
+    "prompt": "a red broccoli, high detail"
+  },
+  {
+    "class_id": 626,
+    "class_name": "lighter, light, igniter, ignitor",
+    "prompt": "A lighter outdoors"
+  },
+  {
+    "class_id": 249,
+    "class_name": "malamute, malemute, Alaskan malamute",
+    "prompt": "a clean studio shot of a malamute"
+  },
+  {
+    "class_id": 195,
+    "class_name": "Boston bull, Boston terrier",
+    "prompt": "A Boston bull on a plain background"
+  },
+  {
+    "class_id": 244,
+    "class_name": "Tibetan mastiff",
+    "prompt": "a close-up photo of a Tibetan mastiff"
+  },
+  {
+    "class_id": 822,
+    "class_name": "steel drum",
+    "prompt": "a clean studio shot of a steel drum"
+  },
+  {
+    "class_id": 82,
+    "class_name": "ruffed grouse, partridge, Bonasa umbellus",
+    "prompt": "A ruffed grouse with soft lighting"
+  },
+  {
+    "class_id": 955,
+    "class_name": "jackfruit, jak, jack",
+    "prompt": "A jackfruit in natural light"
+  },
+  {
+    "class_id": 564,
+    "class_name": "four-poster",
+    "prompt": "a white four-poster"
+  },
+  {
+    "class_id": 834,
+    "class_name": "suit, suit of clothes",
+    "prompt": "A suit on a plain background"
+  },
+  {
+    "class_id": 986,
+    "class_name": "yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripium parviflorum\",",
+    "prompt": "A yellow lady's slipper with soft lighting"
+  },
+  {
+    "class_id": 601,
+    "class_name": "hoopskirt, crinoline",
+    "prompt": "a silver hoopskirt"
+  },
+  {
+    "class_id": 324,
+    "class_name": "cabbage butterfly",
+    "prompt": "A cabbage butterfly in natural light"
+  },
+  {
+    "class_id": 188,
+    "class_name": "wire-haired fox terrier",
+    "prompt": "a red wire-haired fox terrier on a plain background"
+  },
+  {
+    "class_id": 627,
+    "class_name": "limousine, limo",
+    "prompt": "A limousine in natural light"
+  },
+  {
+    "class_id": 487,
+    "class_name": "cellular telephone, cellular phone, cellphone, cell, mobile phone",
+    "prompt": "a green cellular telephone on a plain background"
+  },
+  {
+    "class_id": 945,
+    "class_name": "bell pepper",
+    "prompt": "a silver bell pepper"
+  },
+  {
+    "class_id": 857,
+    "class_name": "throne",
+    "prompt": "A throne in natural light"
+  },
+  {
+    "class_id": 534,
+    "class_name": "dishwasher, dish washer, dishwashing machine",
+    "prompt": "A dishwasher on a plain background"
+  },
+  {
+    "class_id": 916,
+    "class_name": "web site, website, internet site, site",
+    "prompt": "A web site in the wild"
+  },
+  {
+    "class_id": 593,
+    "class_name": "harmonica, mouth organ, harp, mouth harp",
+    "prompt": "a white harmonica, high detail"
+  },
+  {
+    "class_id": 84,
+    "class_name": "peacock",
+    "prompt": "a gold peacock"
+  },
+  {
+    "class_id": 601,
+    "class_name": "hoopskirt, crinoline",
+    "prompt": "A hoopskirt on a plain background"
+  },
+  {
+    "class_id": 248,
+    "class_name": "Eskimo dog, husky",
+    "prompt": "a blue Eskimo dog in natural light"
+  },
+  {
+    "class_id": 722,
+    "class_name": "ping-pong ball",
+    "prompt": "a white ping-pong ball on a plain background"
+  },
+  {
+    "class_id": 436,
+    "class_name": "beach wagon, station wagon, wagon, estate car, beach waggon, station wagg, waggon',",
+    "prompt": "a clean studio shot of a beach wagon"
+  },
+  {
+    "class_id": 801,
+    "class_name": "snorkel",
+    "prompt": "a red snorkel on a plain background"
+  },
+  {
+    "class_id": 836,
+    "class_name": "sunglass",
+    "prompt": "A sunglass with soft lighting"
+  },
+  {
+    "class_id": 616,
+    "class_name": "knot",
+    "prompt": "a sharp photo of a knot"
+  },
+  {
+    "class_id": 127,
+    "class_name": "white stork, Ciconia ciconia",
+    "prompt": "A white stork with a shallow depth of field"
+  },
+  {
+    "class_id": 850,
+    "class_name": "teddy, teddy bear",
+    "prompt": "A teddy in the wild"
+  },
+  {
+    "class_id": 93,
+    "class_name": "hornbill",
+    "prompt": "a red hornbill"
+  },
+  {
+    "class_id": 620,
+    "class_name": "laptop, laptop computer",
+    "prompt": "a blue laptop on a plain background"
+  },
+  {
+    "class_id": 490,
+    "class_name": "chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring mour',",
+    "prompt": "a red chain mail"
+  },
+  {
+    "class_id": 557,
+    "class_name": "flagpole, flagstaff",
+    "prompt": "a black flagpole"
+  },
+  {
+    "class_id": 71,
+    "class_name": "scorpion",
+    "prompt": "a white scorpion in natural light"
+  },
+  {
+    "class_id": 446,
+    "class_name": "binder, ring-binder",
+    "prompt": "a close-up of a gold binder"
+  }
+]
+

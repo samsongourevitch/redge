@@ -1,0 +1,1002 @@
+[
+  {
+    "class_id": 864,
+    "class_name": "tow truck, tow car, wrecker",
+    "prompt": "a close-up photo of a red tow truck"
+  },
+  {
+    "class_id": 265,
+    "class_name": "toy poodle",
+    "prompt": "a photo of a toy poodle with soft lighting"
+  },
+  {
+    "class_id": 414,
+    "class_name": "backpack, back pack, knapsack, packsack, rucksack, haversack",
+    "prompt": "a close-up photo of a backpack"
+  },
+  {
+    "class_id": 991,
+    "class_name": "coral fungus",
+    "prompt": "a photo of a yellow coral fungus, high detail"
+  },
+  {
+    "class_id": 516,
+    "class_name": "cradle",
+    "prompt": "a photo of a blue cradle on a plain background"
+  },
+  {
+    "class_id": 633,
+    "class_name": "loupe, jeweler's loupe",
+    "prompt": "a photo of a big loupe on a plain background"
+  },
+  {
+    "class_id": 101,
+    "class_name": "tusker",
+    "prompt": "a close-up photo of a big tusker"
+  },
+  {
+    "class_id": 573,
+    "class_name": "go-kart",
+    "prompt": "a close-up photo of a white go-kart"
+  },
+  {
+    "class_id": 625,
+    "class_name": "lifeboat",
+    "prompt": "a photo of a big lifeboat on a plain background"
+  },
+  {
+    "class_id": 453,
+    "class_name": "bookcase",
+    "prompt": "a close-up photo of a bookcase"
+  },
+  {
+    "class_id": 63,
+    "class_name": "Indian cobra, Naja naja",
+    "prompt": "a photo of an Indian cobra with a shallow depth of field"
+  },
+  {
+    "class_id": 937,
+    "class_name": "broccoli",
+    "prompt": "a photo of a silver, small broccoli on a plain background"
+  },
+  {
+    "class_id": 626,
+    "class_name": "lighter, light, igniter, ignitor",
+    "prompt": "a photo of a yellow lighter in natural light"
+  },
+  {
+    "class_id": 747,
+    "class_name": "punching bag, punch bag, punching ball, punchball",
+    "prompt": "a photo of a yellow punching bag"
+  },
+  {
+    "class_id": 939,
+    "class_name": "zucchini, courgette",
+    "prompt": "a photo of a small zucchini on a plain background"
+  },
+  {
+    "class_id": 822,
+    "class_name": "steel drum",
+    "prompt": "a photo of a blue steel drum"
+  },
+  {
+    "class_id": 327,
+    "class_name": "starfish, sea star",
+    "prompt": "a photo of a starfish with soft lighting"
+  },
+  {
+    "class_id": 111,
+    "class_name": "nematode, nematode worm, roundworm",
+    "prompt": "a photo of a blue nematode in natural light"
+  },
+  {
+    "class_id": 560,
+    "class_name": "football helmet",
+    "prompt": "a photo of a yellow football helmet, high detail"
+  },
+  {
+    "class_id": 986,
+    "class_name": "yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripium parviflorum\",",
+    "prompt": "a close-up photo of a big yellow lady's slipper"
+  },
+  {
+    "class_id": 93,
+    "class_name": "hornbill",
+    "prompt": "a clean studio photo of a big hornbill"
+  },
+  {
+    "class_id": 589,
+    "class_name": "hand blower, blow dryer, blow drier, hair dryer, hair drier",
+    "prompt": "a photo of a yellow hand blower on a plain background"
+  },
+  {
+    "class_id": 841,
+    "class_name": "sweatshirt",
+    "prompt": "a photo of a black sweatshirt, high detail"
+  },
+  {
+    "class_id": 487,
+    "class_name": "cellular telephone, cellular phone, cellphone, cell, mobile phone",
+    "prompt": "a photo of a green, small cellular telephone on a plain background"
+  },
+  {
+    "class_id": 945,
+    "class_name": "bell pepper",
+    "prompt": "a photo of a silver, big bell pepper"
+  },
+  {
+    "class_id": 534,
+    "class_name": "dishwasher, dish washer, dishwashing machine",
+    "prompt": "a photo of a dishwasher outdoors"
+  },
+  {
+    "class_id": 916,
+    "class_name": "web site, website, internet site, site",
+    "prompt": "a clean studio photo of a big web site"
+  },
+  {
+    "class_id": 461,
+    "class_name": "breastplate, aegis, egis",
+    "prompt": "a photo of a blue breastplate in natural light"
+  },
+  {
+    "class_id": 332,
+    "class_name": "Angora, Angora rabbit",
+    "prompt": "a clean studio photo of a big Angora"
+  },
+  {
+    "class_id": 865,
+    "class_name": "toyshop",
+    "prompt": "a photo of a black toyshop"
+  },
+  {
+    "class_id": 119,
+    "class_name": "rock crab, Cancer irroratus",
+    "prompt": "a close-up photo of a small rock crab"
+  },
+  {
+    "class_id": 340,
+    "class_name": "zebra",
+    "prompt": "a photo of a blue zebra"
+  },
+  {
+    "class_id": 801,
+    "class_name": "snorkel",
+    "prompt": "a photo of a red snorkel on a plain background"
+  },
+  {
+    "class_id": 836,
+    "class_name": "sunglass",
+    "prompt": "a photo of a small sunglass"
+  },
+  {
+    "class_id": 127,
+    "class_name": "white stork, Ciconia ciconia",
+    "prompt": "a photo of a big white stork"
+  },
+  {
+    "class_id": 93,
+    "class_name": "hornbill",
+    "prompt": "a photo of a red hornbill"
+  },
+  {
+    "class_id": 620,
+    "class_name": "laptop, laptop computer",
+    "prompt": "a photo of a blue, big laptop"
+  },
+  {
+    "class_id": 215,
+    "class_name": "Brittany spaniel",
+    "prompt": "a photo of a small Brittany spaniel"
+  },
+  {
+    "class_id": 557,
+    "class_name": "flagpole, flagstaff",
+    "prompt": "a photo of a black flagpole"
+  },
+  {
+    "class_id": 71,
+    "class_name": "scorpion",
+    "prompt": "a photo of a white scorpion in natural light"
+  },
+  {
+    "class_id": 446,
+    "class_name": "binder, ring-binder",
+    "prompt": "a photo of a gold binder, high detail"
+  },
+  {
+    "class_id": 40,
+    "class_name": "American chameleon, anole, Anolis carolinensis",
+    "prompt": "a clean studio photo of a small American chameleon"
+  },
+  {
+    "class_id": 266,
+    "class_name": "miniature poodle",
+    "prompt": "a close-up photo of a green miniature poodle"
+  },
+  {
+    "class_id": 714,
+    "class_name": "pick, plectrum, plectron",
+    "prompt": "a photo of a small pick"
+  },
+  {
+    "class_id": 865,
+    "class_name": "toyshop",
+    "prompt": "a photo of a black toyshop, high detail"
+  },
+  {
+    "class_id": 120,
+    "class_name": "fiddler crab",
+    "prompt": "a clean studio photo of a small fiddler crab"
+  },
+  {
+    "class_id": 13,
+    "class_name": "junco, snowbird",
+    "prompt": "a close-up photo of a black junco"
+  },
+  {
+    "class_id": 664,
+    "class_name": "monitor",
+    "prompt": "a photo of a green monitor in natural light"
+  },
+  {
+    "class_id": 574,
+    "class_name": "golf ball",
+    "prompt": "a clean studio photo of a small golf ball"
+  },
+  {
+    "class_id": 343,
+    "class_name": "warthog",
+    "prompt": "a close-up photo of a small warthog"
+  },
+  {
+    "class_id": 245,
+    "class_name": "French bulldog",
+    "prompt": "a clean studio photo of a big French bulldog"
+  },
+  {
+    "class_id": 624,
+    "class_name": "library",
+    "prompt": "a photo of a green library in natural light"
+  },
+  {
+    "class_id": 732,
+    "class_name": "Polaroid camera, Polaroid Land camera",
+    "prompt": "a close-up photo of a blue Polaroid camera"
+  },
+  {
+    "class_id": 1,
+    "class_name": "goldfish, Carassius auratus",
+    "prompt": "a close-up photo of a small goldfish"
+  },
+  {
+    "class_id": 245,
+    "class_name": "French bulldog",
+    "prompt": "a close-up photo of a silver French bulldog"
+  },
+  {
+    "class_id": 727,
+    "class_name": "planetarium",
+    "prompt": "a photo of a planetarium, high detail"
+  },
+  {
+    "class_id": 32,
+    "class_name": "tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",
+    "prompt": "a photo of a silver tailed frog, high detail"
+  },
+  {
+    "class_id": 790,
+    "class_name": "shopping basket",
+    "prompt": "a photo of a small shopping basket"
+  },
+  {
+    "class_id": 456,
+    "class_name": "bow",
+    "prompt": "a photo of a green, big bow on a plain background"
+  },
+  {
+    "class_id": 540,
+    "class_name": "drilling platform, offshore rig",
+    "prompt": "a photo of a drilling platform with a shallow depth of field"
+  },
+  {
+    "class_id": 618,
+    "class_name": "ladle",
+    "prompt": "a photo of a big ladle"
+  },
+  {
+    "class_id": 333,
+    "class_name": "hamster",
+    "prompt": "a close-up photo of a red hamster"
+  },
+  {
+    "class_id": 828,
+    "class_name": "strainer",
+    "prompt": "a photo of a strainer, high detail"
+  },
+  {
+    "class_id": 192,
+    "class_name": "cairn, cairn terrier",
+    "prompt": "a photo of a green cairn"
+  },
+  {
+    "class_id": 15,
+    "class_name": "robin, American robin, Turdus migratorius",
+    "prompt": "a close-up photo of a white robin"
+  },
+  {
+    "class_id": 3,
+    "class_name": "tiger shark, Galeocerdo cuvieri",
+    "prompt": "a photo of a blue tiger shark"
+  },
+  {
+    "class_id": 195,
+    "class_name": "Boston bull, Boston terrier",
+    "prompt": "a photo of a black Boston bull on a plain background"
+  },
+  {
+    "class_id": 286,
+    "class_name": "cougar, puma, catamount, mountain lion, painter, panther, Felis concolor",
+    "prompt": "a photo of a small cougar on a plain background"
+  },
+  {
+    "class_id": 487,
+    "class_name": "cellular telephone, cellular phone, cellphone, cell, mobile phone",
+    "prompt": "a photo of a cellular telephone, high detail"
+  },
+  {
+    "class_id": 642,
+    "class_name": "marimba, xylophone",
+    "prompt": "a close-up photo of a gold, small marimba"
+  },
+  {
+    "class_id": 882,
+    "class_name": "vacuum, vacuum cleaner",
+    "prompt": "a photo of a white vacuum, high detail"
+  },
+  {
+    "class_id": 117,
+    "class_name": "chambered nautilus, pearly nautilus, nautilus",
+    "prompt": "a close-up photo of a chambered nautilus"
+  },
+  {
+    "class_id": 871,
+    "class_name": "trimaran",
+    "prompt": "a photo of a yellow, big trimaran"
+  },
+  {
+    "class_id": 571,
+    "class_name": "gas pump, gasoline pump, petrol pump, island dispenser",
+    "prompt": "a photo of a red gas pump in natural light"
+  },
+  {
+    "class_id": 866,
+    "class_name": "tractor",
+    "prompt": "a clean studio photo of a big tractor"
+  },
+  {
+    "class_id": 655,
+    "class_name": "miniskirt, mini",
+    "prompt": "a photo of a green miniskirt, high detail"
+  },
+  {
+    "class_id": 212,
+    "class_name": "English setter",
+    "prompt": "a photo of a red English setter in natural light"
+  },
+  {
+    "class_id": 141,
+    "class_name": "redshank, Tringa totanus",
+    "prompt": "a photo of a white redshank in natural light"
+  },
+  {
+    "class_id": 808,
+    "class_name": "sombrero",
+    "prompt": "a photo of a white sombrero"
+  },
+  {
+    "class_id": 798,
+    "class_name": "slide rule, slipstick",
+    "prompt": "a photo of a big slide rule"
+  },
+  {
+    "class_id": 167,
+    "class_name": "English foxhound",
+    "prompt": "a photo of a black English foxhound, high detail"
+  },
+  {
+    "class_id": 369,
+    "class_name": "siamang, Hylobates syndactylus, Symphalangus syndactylus",
+    "prompt": "a photo of a green siamang, high detail"
+  },
+  {
+    "class_id": 300,
+    "class_name": "tiger beetle",
+    "prompt": "a photo of a red tiger beetle on a plain background"
+  },
+  {
+    "class_id": 315,
+    "class_name": "mantis, mantid",
+    "prompt": "a photo of a blue mantis, high detail"
+  },
+  {
+    "class_id": 309,
+    "class_name": "bee",
+    "prompt": "a photo of a black bee in natural light"
+  },
+  {
+    "class_id": 424,
+    "class_name": "barbershop",
+    "prompt": "a photo of a gold barbershop, high detail"
+  },
+  {
+    "class_id": 485,
+    "class_name": "CD player",
+    "prompt": "a photo of a blue CD player in natural light"
+  },
+  {
+    "class_id": 490,
+    "class_name": "chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring mour',",
+    "prompt": "a close-up photo of a silver chain mail"
+  },
+  {
+    "class_id": 38,
+    "class_name": "banded gecko",
+    "prompt": "a photo of a green banded gecko on a plain background"
+  },
+  {
+    "class_id": 641,
+    "class_name": "maraca",
+    "prompt": "a photo of a small maraca"
+  },
+  {
+    "class_id": 827,
+    "class_name": "stove",
+    "prompt": "a photo of a yellow, small stove on a plain background"
+  },
+  {
+    "class_id": 394,
+    "class_name": "sturgeon",
+    "prompt": "a close-up photo of a black, big sturgeon"
+  },
+  {
+    "class_id": 942,
+    "class_name": "butternut squash",
+    "prompt": "a photo of a yellow butternut squash, high detail"
+  },
+  {
+    "class_id": 433,
+    "class_name": "bathing cap, swimming cap",
+    "prompt": "a photo of a black, small bathing cap"
+  },
+  {
+    "class_id": 441,
+    "class_name": "beer glass",
+    "prompt": "a photo of a blue beer glass"
+  },
+  {
+    "class_id": 841,
+    "class_name": "sweatshirt",
+    "prompt": "a photo of a sweatshirt"
+  },
+  {
+    "class_id": 924,
+    "class_name": "guacamole",
+    "prompt": "a photo of a blue guacamole on a plain background"
+  },
+  {
+    "class_id": 509,
+    "class_name": "confectionery, confectionary, candy store",
+    "prompt": "a photo of a red confectionery on a plain background"
+  },
+  {
+    "class_id": 970,
+    "class_name": "alp",
+    "prompt": "a photo of a small alp on a plain background"
+  },
+  {
+    "class_id": 202,
+    "class_name": "soft-coated wheaten terrier",
+    "prompt": "a photo of a green soft-coated wheaten terrier in natural light"
+  },
+  {
+    "class_id": 107,
+    "class_name": "jellyfish",
+    "prompt": "a photo of a jellyfish with soft lighting"
+  },
+  {
+    "class_id": 151,
+    "class_name": "Chihuahua",
+    "prompt": "a clean studio photo of a big Chihuahua"
+  },
+  {
+    "class_id": 695,
+    "class_name": "padlock",
+    "prompt": "a clean studio photo of a padlock"
+  },
+  {
+    "class_id": 853,
+    "class_name": "thatch, thatched roof",
+    "prompt": "a close-up photo of a yellow thatch"
+  },
+  {
+    "class_id": 555,
+    "class_name": "fire engine, fire truck",
+    "prompt": "a photo of a small fire engine on a plain background"
+  },
+  {
+    "class_id": 348,
+    "class_name": "ram, tup",
+    "prompt": "a close-up photo of a big ram"
+  },
+  {
+    "class_id": 36,
+    "class_name": "terrapin",
+    "prompt": "a photo of a green terrapin in natural light"
+  },
+  {
+    "class_id": 862,
+    "class_name": "torch",
+    "prompt": "a photo of a gold torch in natural light"
+  },
+  {
+    "class_id": 67,
+    "class_name": "diamondback, diamondback rattlesnake, Crotalus adamanteus",
+    "prompt": "a photo of a small diamondback"
+  },
+  {
+    "class_id": 230,
+    "class_name": "Shetland sheepdog, Shetland sheep dog, Shetland",
+    "prompt": "a photo of a red Shetland sheepdog in natural light"
+  },
+  {
+    "class_id": 777,
+    "class_name": "scabbard",
+    "prompt": "a clean studio photo of a scabbard"
+  },
+  {
+    "class_id": 882,
+    "class_name": "vacuum, vacuum cleaner",
+    "prompt": "a photo of a gold vacuum on a plain background"
+  },
+  {
+    "class_id": 991,
+    "class_name": "coral fungus",
+    "prompt": "a close-up photo of a red coral fungus"
+  },
+  {
+    "class_id": 587,
+    "class_name": "hammer",
+    "prompt": "a photo of a blue, big hammer on a plain background"
+  },
+  {
+    "class_id": 927,
+    "class_name": "trifle",
+    "prompt": "a close-up photo of a big trifle"
+  },
+  {
+    "class_id": 845,
+    "class_name": "syringe",
+    "prompt": "a photo of a syringe, high detail"
+  },
+  {
+    "class_id": 622,
+    "class_name": "lens cap, lens cover",
+    "prompt": "a photo of a small lens cap"
+  },
+  {
+    "class_id": 758,
+    "class_name": "reel",
+    "prompt": "a photo of a black reel, high detail"
+  },
+  {
+    "class_id": 340,
+    "class_name": "zebra",
+    "prompt": "a close-up photo of a black, big zebra"
+  },
+  {
+    "class_id": 393,
+    "class_name": "anemone fish",
+    "prompt": "a photo of an anemone fish"
+  },
+  {
+    "class_id": 167,
+    "class_name": "English foxhound",
+    "prompt": "a photo of a small English foxhound on a plain background"
+  },
+  {
+    "class_id": 293,
+    "class_name": "cheetah, chetah, Acinonyx jubatus",
+    "prompt": "a close-up photo of a small cheetah"
+  },
+  {
+    "class_id": 964,
+    "class_name": "potpie",
+    "prompt": "a close-up photo of a green, big potpie"
+  },
+  {
+    "class_id": 911,
+    "class_name": "wool, woolen, woollen",
+    "prompt": "a photo of a wool on a plain background"
+  },
+  {
+    "class_id": 689,
+    "class_name": "overskirt",
+    "prompt": "a close-up photo of a big overskirt"
+  },
+  {
+    "class_id": 36,
+    "class_name": "terrapin",
+    "prompt": "a clean studio photo of a big terrapin"
+  },
+  {
+    "class_id": 48,
+    "class_name": "Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoeis',",
+    "prompt": "a photo of a red Komodo dragon on a plain background"
+  },
+  {
+    "class_id": 33,
+    "class_name": "loggerhead, loggerhead turtle, Caretta caretta",
+    "prompt": "a photo of a big loggerhead on a plain background"
+  },
+  {
+    "class_id": 107,
+    "class_name": "jellyfish",
+    "prompt": "a close-up photo of a small jellyfish"
+  },
+  {
+    "class_id": 392,
+    "class_name": "rock beauty, Holocanthus tricolor",
+    "prompt": "a clean studio photo of a small rock beauty"
+  },
+  {
+    "class_id": 902,
+    "class_name": "whistle",
+    "prompt": "a photo of a gold, big whistle on a plain background"
+  },
+  {
+    "class_id": 666,
+    "class_name": "mortar",
+    "prompt": "a photo of a black mortar, high detail"
+  },
+  {
+    "class_id": 807,
+    "class_name": "solar dish, solar collector, solar furnace",
+    "prompt": "a photo of a solar dish, high detail"
+  },
+  {
+    "class_id": 818,
+    "class_name": "spotlight, spot",
+    "prompt": "a photo of a yellow spotlight"
+  },
+  {
+    "class_id": 39,
+    "class_name": "common iguana, iguana, Iguana iguana",
+    "prompt": "a clean studio photo of a big common iguana"
+  },
+  {
+    "class_id": 774,
+    "class_name": "sandal",
+    "prompt": "a photo of a blue sandal in natural light"
+  },
+  {
+    "class_id": 979,
+    "class_name": "valley, vale",
+    "prompt": "a photo of a gold, big valley"
+  },
+  {
+    "class_id": 922,
+    "class_name": "menu",
+    "prompt": "a photo of a yellow, small menu on a plain background"
+  },
+  {
+    "class_id": 95,
+    "class_name": "jacamar",
+    "prompt": "a clean studio photo of a big jacamar"
+  },
+  {
+    "class_id": 968,
+    "class_name": "cup",
+    "prompt": "a close-up photo of a silver cup"
+  },
+  {
+    "class_id": 945,
+    "class_name": "bell pepper",
+    "prompt": "a photo of a silver, small bell pepper"
+  },
+  {
+    "class_id": 101,
+    "class_name": "tusker",
+    "prompt": "a photo of a red tusker on a plain background"
+  },
+  {
+    "class_id": 810,
+    "class_name": "space bar",
+    "prompt": "a close-up photo of a red space bar"
+  },
+  {
+    "class_id": 508,
+    "class_name": "computer keyboard, keypad",
+    "prompt": "a clean studio photo of a computer keyboard"
+  },
+  {
+    "class_id": 739,
+    "class_name": "potter's wheel",
+    "prompt": "a photo of a blue potter's wheel in natural light"
+  },
+  {
+    "class_id": 124,
+    "class_name": "crayfish, crawfish, crawdad, crawdaddy",
+    "prompt": "a photo of a white crayfish"
+  },
+  {
+    "class_id": 356,
+    "class_name": "weasel",
+    "prompt": "a photo of a white weasel on a plain background"
+  },
+  {
+    "class_id": 72,
+    "class_name": "black and gold garden spider, Argiope aurantia",
+    "prompt": "a photo of a small black and gold garden spider on a plain background"
+  },
+  {
+    "class_id": 3,
+    "class_name": "tiger shark, Galeocerdo cuvieri",
+    "prompt": "a photo of a red tiger shark"
+  },
+  {
+    "class_id": 300,
+    "class_name": "tiger beetle",
+    "prompt": "a photo of a yellow tiger beetle"
+  },
+  {
+    "class_id": 879,
+    "class_name": "umbrella",
+    "prompt": "a close-up photo of a blue umbrella"
+  },
+  {
+    "class_id": 488,
+    "class_name": "chain",
+    "prompt": "a photo of a green chain in natural light"
+  },
+  {
+    "class_id": 28,
+    "class_name": "spotted salamander, Ambystoma maculatum",
+    "prompt": "a clean studio photo of a spotted salamander"
+  },
+  {
+    "class_id": 343,
+    "class_name": "warthog",
+    "prompt": "a photo of a black warthog in natural light"
+  },
+  {
+    "class_id": 959,
+    "class_name": "carbonara",
+    "prompt": "a photo of a carbonara with a shallow depth of field"
+  },
+  {
+    "class_id": 651,
+    "class_name": "microwave, microwave oven",
+    "prompt": "a photo of a blue microwave, high detail"
+  },
+  {
+    "class_id": 105,
+    "class_name": "koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus",
+    "prompt": "a photo of a green koala in natural light"
+  },
+  {
+    "class_id": 385,
+    "class_name": "Indian elephant, Elephas maximus",
+    "prompt": "a photo of an Indian elephant in natural light"
+  },
+  {
+    "class_id": 823,
+    "class_name": "stethoscope",
+    "prompt": "a photo of a yellow stethoscope, high detail"
+  },
+  {
+    "class_id": 242,
+    "class_name": "boxer",
+    "prompt": "a close-up photo of a big boxer"
+  },
+  {
+    "class_id": 429,
+    "class_name": "baseball",
+    "prompt": "a photo of a small baseball on a plain background"
+  },
+  {
+    "class_id": 403,
+    "class_name": "aircraft carrier, carrier, flattop, attack aircraft carrier",
+    "prompt": "a photo of a green, big aircraft carrier"
+  },
+  {
+    "class_id": 306,
+    "class_name": "rhinoceros beetle",
+    "prompt": "a photo of a big rhinoceros beetle on a plain background"
+  },
+  {
+    "class_id": 305,
+    "class_name": "dung beetle",
+    "prompt": "a photo of a small dung beetle"
+  },
+  {
+    "class_id": 455,
+    "class_name": "bottlecap",
+    "prompt": "a photo of a big bottlecap"
+  },
+  {
+    "class_id": 418,
+    "class_name": "ballpoint, ballpoint pen, ballpen, Biro",
+    "prompt": "a photo of a white, big ballpoint on a plain background"
+  },
+  {
+    "class_id": 208,
+    "class_name": "Labrador retriever",
+    "prompt": "a close-up photo of a blue Labrador retriever"
+  },
+  {
+    "class_id": 973,
+    "class_name": "coral reef",
+    "prompt": "a photo of a black coral reef"
+  },
+  {
+    "class_id": 114,
+    "class_name": "slug",
+    "prompt": "a photo of a big slug on a plain background"
+  },
+  {
+    "class_id": 950,
+    "class_name": "orange",
+    "prompt": "a close-up photo of a silver orange"
+  },
+  {
+    "class_id": 178,
+    "class_name": "Weimaraner",
+    "prompt": "a close-up photo of a white Weimaraner"
+  },
+  {
+    "class_id": 959,
+    "class_name": "carbonara",
+    "prompt": "a photo of a gold carbonara in natural light"
+  },
+  {
+    "class_id": 646,
+    "class_name": "maze, labyrinth",
+    "prompt": "a clean studio photo of a small maze"
+  },
+  {
+    "class_id": 301,
+    "class_name": "ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",
+    "prompt": "a photo of a gold, big ladybug on a plain background"
+  },
+  {
+    "class_id": 7,
+    "class_name": "cock",
+    "prompt": "a photo of a black cock"
+  },
+  {
+    "class_id": 558,
+    "class_name": "flute, transverse flute",
+    "prompt": "a clean studio photo of a big flute"
+  },
+  {
+    "class_id": 94,
+    "class_name": "hummingbird",
+    "prompt": "a photo of a big hummingbird on a plain background"
+  },
+  {
+    "class_id": 286,
+    "class_name": "cougar, puma, catamount, mountain lion, painter, panther, Felis concolor",
+    "prompt": "a photo of a small cougar"
+  },
+  {
+    "class_id": 276,
+    "class_name": "hyena, hyaena",
+    "prompt": "a photo of a hyena"
+  },
+  {
+    "class_id": 0,
+    "class_name": "tench, Tinca tinca",
+    "prompt": "a photo of a silver tench, high detail"
+  },
+  {
+    "class_id": 455,
+    "class_name": "bottlecap",
+    "prompt": "a photo of a white bottlecap in natural light"
+  },
+  {
+    "class_id": 290,
+    "class_name": "jaguar, panther, Panthera onca, Felis onca",
+    "prompt": "a photo of a jaguar outdoors"
+  },
+  {
+    "class_id": 609,
+    "class_name": "jeep, landrover",
+    "prompt": "a photo of a black, big jeep"
+  },
+  {
+    "class_id": 546,
+    "class_name": "electric guitar",
+    "prompt": "a photo of a yellow electric guitar, high detail"
+  },
+  {
+    "class_id": 912,
+    "class_name": "worm fence, snake fence, snake-rail fence, Virginia fence",
+    "prompt": "a photo of a worm fence in natural light"
+  },
+  {
+    "class_id": 69,
+    "class_name": "trilobite",
+    "prompt": "a photo of a black trilobite in natural light"
+  },
+  {
+    "class_id": 532,
+    "class_name": "dining table, board",
+    "prompt": "a photo of a yellow dining table, high detail"
+  },
+  {
+    "class_id": 544,
+    "class_name": "Dutch oven",
+    "prompt": "a photo of a silver Dutch oven, high detail"
+  },
+  {
+    "class_id": 759,
+    "class_name": "reflex camera",
+    "prompt": "a close-up photo of a big reflex camera"
+  },
+  {
+    "class_id": 452,
+    "class_name": "bonnet, poke bonnet",
+    "prompt": "a photo of a green bonnet on a plain background"
+  },
+  {
+    "class_id": 126,
+    "class_name": "isopod",
+    "prompt": "a clean studio photo of a big isopod"
+  },
+  {
+    "class_id": 605,
+    "class_name": "iPod",
+    "prompt": "a photo of a black iPod, high detail"
+  },
+  {
+    "class_id": 362,
+    "class_name": "badger",
+    "prompt": "a clean studio photo of a small badger"
+  },
+  {
+    "class_id": 488,
+    "class_name": "chain",
+    "prompt": "a photo of a white chain, high detail"
+  },
+  {
+    "class_id": 504,
+    "class_name": "coffee mug",
+    "prompt": "a photo of a big coffee mug"
+  },
+  {
+    "class_id": 307,
+    "class_name": "weevil",
+    "prompt": "a close-up photo of a red weevil"
+  },
+  {
+    "class_id": 908,
+    "class_name": "wing",
+    "prompt": "a photo of a big wing"
+  },
+  {
+    "class_id": 482,
+    "class_name": "cassette player",
+    "prompt": "a photo of a blue cassette player"
+  },
+  {
+    "class_id": 703,
+    "class_name": "park bench",
+    "prompt": "a photo of a park bench, high detail"
+  },
+  {
+    "class_id": 6,
+    "class_name": "stingray",
+    "prompt": "a photo of a red stingray"
+  }
+]
